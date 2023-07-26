@@ -27,8 +27,6 @@ int     pot_valor = 0,    //valor ad do potenciômetro
         lei_botao = 0,    //leitura do botão físico
         graf_valor = 0;
 
-char    txt1[4];         //texto para conversão e exibição
-
 uint32_t ds_var,          //armazena o estado do botão nextion
          num_var;         //armazena o valor analógico do slider no nextion
 
