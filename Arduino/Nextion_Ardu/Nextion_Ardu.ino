@@ -3,7 +3,7 @@
 #include  "Nextion.h"   //biblioteca Nextion de ITEADLIB_Arduino_Nextion
 
 // --- Mapeamento de Hardware ---
-#define    pot    A5
+#define    pot    A0
 #define    led    LED_BUILTIN
 #define    buz    9
 #define    bot    7
